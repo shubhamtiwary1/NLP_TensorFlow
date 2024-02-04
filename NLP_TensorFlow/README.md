@@ -1,4 +1,4 @@
-# flutter_application_2
+# NLP_tflite_flutter
 
 A new Flutter project.
 
